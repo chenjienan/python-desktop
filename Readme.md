@@ -38,4 +38,4 @@ Qt ("Qute")
 
 ## User input
 - QLineEdit => .text() returns a string
-- 
+- QLabel => .setText('your string') set your text
